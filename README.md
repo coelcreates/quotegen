@@ -8,7 +8,7 @@
 
 
 ###Running the Project
-*This project has no backend server, just a JSON file holding the quotes object for future implementation. It won't fetch or parse the data due to CORS restrictions and instead defaults to the quote object in the jaavascript file.* 
+*This project has no backend server, just a JSON file holding the quotes object for future implementation. It won't fetch or parse the data due to CORS restrictions and instead defaults to the quote object in the javascript file.* 
 
 Contributing
 We welcome contributions to this project! Please feel free to fork the repository, make your changes, and submit a pull request.
